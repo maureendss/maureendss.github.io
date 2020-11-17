@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Maureen de Seyssel"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "A short biography to fill in"
   location         : "Paris, France"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/maureen-de-seyssel/"
+  linkedin         : "maureen-de-seyssel"
   orcid            :
   pinterest        :
   soundcloud       :
