@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Maureen de Seyssel"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Maureen de Seyssel"
-description              : &description "personal description"
-url                      : https://maureendss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Maureen de Seyssel's personal website"
+url                      : "https://maureendss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maureendss/maureendss.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Maureen de Seyssel"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A short biography to fill in"
   location         : "Paris, France"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rHH2MaoAAAAJ&hl=en"
-  email            : "maureen dot deseyssel at gmail dot com"
+  email            : maureen.de.seyssel@ens.psl.eu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
