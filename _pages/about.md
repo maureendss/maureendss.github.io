@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Website Under Construction"
+title: "Welcome, Bienvenue!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-*This website is currently under construction.*
+*This website is still currently under construction.*
 
 
 I am a PhD student at the Ecole Normale Supérieure & Université de Paris, under the supervision of [Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Guillaume Wisniewki](https://gw17.github.io/).
@@ -20,4 +20,4 @@ My research focuses on __bilingual language acquisition__, from a __reverse engi
 I am also currently a part of the committee for the [2021 Zero Resource Speech challenge](https://zerospeech.com/2021/index.html).
 
 
-Previously, I graduated from the University of Edinburgh with an MSc in Speech and Language Processing, and from City, University of London with a BSc in Psychology. I also worked as a speech recognition engineer, focusing on acoustic modelling, prior to starting my PhD. 
+Previously, I graduated from the University of Edinburgh with an MSc in Speech and Language Processing, and from City, University of London with a BSc in Psychology. I also worked as a speech recognition engineer, focusing on acoustic modelling, prior to starting my PhD.
