@@ -13,7 +13,7 @@ Full CV available [here](https://maureendss.github.io/files/CV-nov20.pdf).
 
 Education
 ======
-* Ph.D in Cognitive Science, Ecole Normale Supérieure & Université de Paris, 2023 (expected)
+* Ph.D Candidate in Cognitive Science, Ecole Normale Supérieure & Université de Paris, 2023 (expected)
 * M.Sc. in Speech and Language Processing, University of Edinburgh, 2017
 * B.Sc. in Psychology, City, University of London, 2016
 
